@@ -118,9 +118,17 @@ Employee_OverTime_Prediction/
 
 ---
 
-##  Application Preview
+## 📸 Application Preview
 
-Add screenshots of the Streamlit application inside the **screenshots** folder and include them here.
+### 🏠 Home Page
+
+![Home Page](screenshots/home_page.png)
+
+---
+
+### 🎯 Prediction Result
+
+![Prediction Result](screenshots/prediction_result.png)
 
 ---
 
