@@ -293,16 +293,16 @@ scenario_df = pd.DataFrame({
         "Distance From Home",
         "Department"
     ],
-    "Value": [
-        age,
-        job_level,
-        years_at_company,
-        monthly_income,
-        job_satisfaction,
-        work_life_balance,
-        distance_from_home,
-        department
-    ]
+ "Value": [
+    str(age),
+    str(job_level),
+    str(years_at_company),
+    str(monthly_income),
+    str(job_satisfaction),
+    str(work_life_balance),
+    str(distance_from_home),
+    department
+]
 })
 
 st.dataframe(
