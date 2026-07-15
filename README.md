@@ -2,9 +2,13 @@
 
 # ⏰ Employee OverTime Prediction
 
-### 🚀 Live Demo
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification-orange)
+![Streamlit](https://img.shields.io/badge/Deployment-Streamlit-red)
+![Model](https://img.shields.io/badge/Model-Gaussian%20Naive%20Bayes-green)
 
-👉 **https://akhlaque03-employee-overtime-predictor.streamlit.app/**
+🚀 **Live Demo:**  
+https://akhlaque03-employee-overtime-predictor.streamlit.app/
 
 </p>
 
@@ -38,15 +42,24 @@ Employee overtime has a significant impact on productivity, employee well-being,
 
 ---
 
-##  Technologies Used
+## 🛠 Technologies Used
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Scikit-learn
-* Joblib
-* Streamlit
+### Programming & Data Processing
+- Python
+- Pandas
+- NumPy
+
+### Data Visualization
+- Matplotlib
+
+### Machine Learning
+- Scikit-learn
+- Joblib
+
+### Deployment & Tools
+- Streamlit
+- Jupyter Notebook
+- GitHub
 
 ---
 
@@ -84,10 +97,9 @@ Employee overtime has a significant impact on productivity, employee well-being,
 
 ## 🏆 Final Model
 
-**Gaussian Naive Bayes (GNB)**
+### Gaussian Naive Bayes (GNB)
 
-The final model was selected after comparing multiple machine learning algorithms using weighted evaluation metrics and ROC-AUC score.
-
+After evaluating multiple classification algorithms, Gaussian Naive Bayes achieved the best overall performance based on weighted evaluation metrics and ROC-AUC score.
 ---
 
 ##  Evaluation Metrics
@@ -140,19 +152,19 @@ Employee_OverTime_Prediction/
 
 ---
 
-### 🎯 Prediction Result
+###  Prediction Result
 
 ![Prediction Result](screenshots/prediction_result.png)
 
 ---
 
-##  Future Improvements
+## 🔮 Future Improvements
 
-* Improve minority class prediction.
-* Experiment with advanced ensemble techniques.
-* Apply feature selection techniques.
-* Improve model calibration.
-* Deploy using Streamlit Community Cloud.
+- Improve minority class prediction using advanced sampling techniques.
+- Experiment with advanced ensemble learning methods.
+- Apply feature selection techniques for better model performance.
+- Improve model calibration and prediction confidence.
+- Implement deployment monitoring and model performance tracking.
 
 ---
 
