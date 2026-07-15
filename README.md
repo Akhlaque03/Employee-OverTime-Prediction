@@ -42,7 +42,7 @@ Employee overtime has a significant impact on productivity, employee well-being,
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 ### Programming & Data Processing
 - Python
@@ -78,20 +78,22 @@ Employee overtime has a significant impact on productivity, employee well-being,
 
 ---
 
-##  Models Evaluated
+## 🤖 Models Evaluated
 
-* Logistic Regression
-* Decision Tree
-* Random Forest
-* Gradient Boosting
-* XGBoost
-* LightGBM
-* CatBoost
-* K-Nearest Neighbors (KNN)
-* Support Vector Machine (SVM)
-* Gaussian Naive Bayes (GNB)
-* AdaBoost
-* Extra Trees
+The following classification algorithms were trained and evaluated:
+
+- Logistic Regression
+- Decision Tree Classifier
+- Random Forest Classifier
+- Gradient Boosting Classifier
+- XGBoost Classifier
+- LightGBM Classifier
+- CatBoost Classifier
+- K-Nearest Neighbors (KNN)
+- Support Vector Machine (SVM)
+- Gaussian Naive Bayes (GNB)
+- AdaBoost Classifier
+- Extra Trees Classifier
 
 ---
 
@@ -102,26 +104,30 @@ Employee overtime has a significant impact on productivity, employee well-being,
 After evaluating multiple classification algorithms, Gaussian Naive Bayes achieved the best overall performance based on weighted evaluation metrics and ROC-AUC score.
 ---
 
-##  Evaluation Metrics
+## 📊 Evaluation Metrics
 
-The models were evaluated using:
+The classification models were evaluated using the following performance metrics:
 
-* Accuracy
-* Precision (Weighted)
-* Recall (Weighted)
-* F1-Score (Weighted)
-* ROC-AUC Score
+- Accuracy
+- Precision (Weighted)
+- Recall (Weighted)
+- F1-Score (Weighted)
+- ROC-AUC Score
+
+ROC-AUC was considered as an important metric for comparing model performance because it provides better evaluation for classification problems.
 
 ---
 
-##  Streamlit Application Features
+## 💻 Streamlit Application Features
 
-* Employee information input through sidebar
-* Real-time OverTime prediction
-* Prediction probability display
-* Best model performance summary
-* Model comparison table
-* Selected employee scenario visualization
+The deployed Streamlit application provides:
+
+- Employee information input through an interactive sidebar
+- Real-time OverTime prediction
+- Prediction probability display
+- Final model performance summary
+- Model comparison visualization
+- Selected employee scenario analysis
 
 ---
 
