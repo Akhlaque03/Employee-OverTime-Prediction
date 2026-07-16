@@ -6,6 +6,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification-orange)
 ![Streamlit](https://img.shields.io/badge/Deployment-Streamlit-red)
 ![Model](https://img.shields.io/badge/Model-Gaussian%20Naive%20Bayes-green)
+![License](https://img.shields.io/badge/License-MIT-purple)
 
 🚀 **Live Demo:**  
 https://akhlaque03-employee-overtime-predictor.streamlit.app/
